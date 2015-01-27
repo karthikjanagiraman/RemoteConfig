@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tMainUrl</key>
+	<string>http://tamburafeed.appspot.com/gettamburamain</string>
+	<key>ADMOB</key>
+	<true/>
+	<key>tGenreUrl</key>
+	<string>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi</string>
+</dict>
+</plist>
