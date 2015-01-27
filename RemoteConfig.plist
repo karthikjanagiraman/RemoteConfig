@@ -5,7 +5,7 @@
 	<key>tMainUrl</key>
 	<string>http://tamburafeed.appspot.com/gettamburamain</string>
 	<key>ADMOB</key>
-	<true/>
+	<false/>
 	<key>tGenreUrl</key>
 	<string>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi</string>
 </dict>
