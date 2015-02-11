@@ -8,6 +8,8 @@
 	<true/>
 	<key>DISABLESKIP</key>
 	<string>YES</string>
+	<key>REVMOBTIMER</key>
+	<string>600.0</string>
 	<key>tGenreUrl</key>
 	<string>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi</string>
 </dict>
