@@ -7,7 +7,7 @@
 	<key>ADMOB</key>
 	<true/>
 	<key>DISABLESKIP</key>
-	<string>NO</string>
+	<string>YES</string>
 	<key>REVMOBTIMER</key>
 	<string>600.0</string>
 	<key>tGenreUrl</key>
