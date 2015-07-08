@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet xml-stylesheet type="text/xsl" href="http://feeds.rapidfeeds.com/style/style3.xml"?>
+<?xml-stylesheet xml-stylesheet type="text/css" href="http://feeds.rapidfeeds.com/style/style3.css"?>
+<rss xmlns:blogChannel="http://backend.userland.com/blogChannelModule" version="2.0">
+    <channel>
+        <title>Tandora Main</title>
+        <link>http://feeds.rapidfeeds.com/?fid4ct=43117</link>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="feeds.rapidfeeds.com/43117/" rel="via" type="application/rss+xml"></atom:link>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="http://feeds.rapidfeeds.com/43117/" rel="self" type="application/rss+xml"></atom:link>
+        <description>radio maja</description>
+        <pubDate>Sat, 27 Jun 2015 14:23:00 EDT</pubDate>
+        <lastBuildDate>Tue, 07 Jul 2015 10:25:10 -0700</lastBuildDate>
+        <docs>http://backend.userland.com/rss</docs>
+        <generator>RapidFeeds v0.1 -- http://www.rapidfeeds.com</generator>
+        <item>
+            <title>Devotional#6</title>
+            <description>http://feeds.rapidfeeds.com/45105/</description>
+            <link>http://feeds.rapidfeeds.com/45105/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=6316768</guid>
+            <pubDate>Sat, 03 Sep 2011 12:46 -0700</pubDate>
+        </item>
+        <item>
+            <title>English#7</title>
+            <description>http://museboxradio.appspot.com/getlatest4mmuse?genre=Top%2040</description>
+            <link>http://museboxradio.appspot.com/getlatest4mmuse?genre=Top%2040</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=6097865</guid>
+            <pubDate>Tue, 29 Oct 2013 14:48 -0700</pubDate>
+        </item>
+        <item>
+            <title>Punjabi #4</title>
+            <description>http://museboxradio.appspot.com/getlatest4mmuse?genre=punjabi</description>
+            <link>http://museboxradio.appspot.com/getlatest4mmuse?genre=punjabi</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=6316726</guid>
+            <pubDate>Mon, 12 Jan 2015 23:01 -0800</pubDate>
+        </item>
+        <item>
+            <title>Malayalam#5</title>
+            <description>http://museboxradio.appspot.com/getlatest4mmuse?genre=malayalam</description>
+            <link>http://museboxradio.appspot.com/getlatest4mmuse?genre=malayalam</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=6316701</guid>
+            <pubDate>Mon, 12 Jan 2015 23:09 -0800</pubDate>
+        </item>
+        <item>
+            <title>Hindi#1</title>
+            <description>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi</description>
+            <link>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5954067</guid>
+            <pubDate>Thu, 05 Feb 2015 21:39 -0800</pubDate>
+        </item>
+        <item>
+            <title>Tamil#2</title>
+            <description>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Tamil</description>
+            <link>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Tamil</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5954066</guid>
+            <pubDate>Sat, 27 Jun 2015 11:20 -0700</pubDate>
+        </item>
+        <item>
+            <title>Telugu#3</title>
+            <description>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Telugu</description>
+            <link>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Telugu</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5962825</guid>
+            <pubDate>Sat, 27 Jun 2015 11:23 -0700</pubDate>
+        </item>
+    </channel>
+</rss>
