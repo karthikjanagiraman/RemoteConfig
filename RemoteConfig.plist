@@ -2,6 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Language</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Tamil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Telugu</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hindi</string>
+		</dict>
+	</array>
 	<key>tMainUrl</key>
 	<string>http://tamburafeed.appspot.com/gettamburamain</string>
 	<key>ADMOB</key>
