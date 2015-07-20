@@ -10,6 +10,57 @@
 	<string>NO</string>
 	<key>REVMOBTIMER</key>
 	<string>1800.0</string>
+	<key>Artists</key>
+	<dict>
+		<key>Hindi</key>
+		<array>
+			<string>Kishore Kumar</string>
+			<string>Asha Bhonsle</string>
+			<string>Lata Mangeshkar</string>
+			<string>Mohit Chauhan</string>
+			<string>Sonu Nigam</string>
+			<string>Sukhwinder Singh</string>
+			<string>Sunidhi Chauhan</string>
+			<string>Atif Aslam</string>
+			<string>Ayushman Khurana</string>
+			<string>Shreya Ghoshal</string>
+			<string>Rahat Ali Fateh Khan</string>
+			<string>Mika Singh</string>
+			<string>Arijit Singh</string>
+		</array>
+		<key>Tamil</key>
+		<array>
+			<string>Ilaiyaraja</string>
+			<string>A R Rahman Tamil Songs</string>
+			<string>Shreya Ghoshal tamil songs</string>
+			<string>Hariharan tamil songs</string>
+			<string>SPB hits in tamil</string>
+			<string>Yuvan Shankar Raja</string>
+			<string>GV Prakash songs</string>
+			<string>Vadivelu comedy</string>
+			<string>Santhanam Comedy</string>
+			<string>Neeya Naana</string>
+			<string>kuthu songs tamil</string>
+			<string>gaana song tamil</string>
+			<string>Chitra hits</string>
+			<string>Tamil pattimandram 2015</string>
+			<string>Suki sivam speech</string>
+			<string>RJ chennai</string>
+			<string>Tamil movies scenes</string>
+		</array>
+		<key>Telugu</key>
+		<array>
+			<string>Old Telugu Songs</string>
+			<string>A R Rahman Telugu songs</string>
+			<string>ilayaraja telugu hits</string>
+			<string>DSP telugu hit songs</string>
+			<string>S. Thaman songs</string>
+			<string>anup rubens hit songs</string>
+			<string>Brahmanandam comedy scenes</string>
+			<string>pravachanam in telugu</string>
+			<string>telugu devotional songs</string>
+		</array>
+	</dict>
 	<key>tGenreUrl</key>
 	<string>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi</string>
 </dict>
