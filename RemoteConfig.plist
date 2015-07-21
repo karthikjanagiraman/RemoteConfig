@@ -2,29 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Language</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>Tamil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Telugu</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Hindi</string>
-		</dict>
-	</array>
-	<key>tMainUrl</key>
-	<string>http://tamburafeed.appspot.com/gettamburamain</string>
-	<key>ADMOB</key>
-	<true/>
-	<key>DISABLESKIP</key>
-	<string>NO</string>
-	<key>REVMOBTIMER</key>
-	<string>1800.0</string>
 	<key>Artists</key>
 	<dict>
 		<key>Hindi</key>
@@ -76,7 +53,41 @@
 			<string>telugu devotional songs</string>
 		</array>
 	</dict>
+	<key>REVMOBTIMER</key>
+	<string>800.0</string>
+	<key>tMainUrl</key>
+	<string>http://tamburafeed.appspot.com/gettamburamain</string>
+	<key>ADMOB</key>
+	<true/>
+	<key>DISABLESKIP</key>
+	<false/>
 	<key>tGenreUrl</key>
 	<string>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi</string>
+	<key>Language</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Tamil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Telugu</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hindi</string>
+		</dict>
+	</array>
+	<key>Playlist</key>
+	<dict>
+		<key>Punjabi</key>
+		<string>PLHuHXHyLu7BG4XrfduvRCdUTDsdr5y0Px</string>
+		<key>Hindi</key>
+		<string>PLgxlkSiri4WfCtmlAhFcIRpqGnd02e6Aj</string>
+		<key>Tamil</key>
+		<string>PLgxlkSiri4Wd6iuAOWOH6C8pwN6k1qpCo</string>
+		<key>Telugu</key>
+		<string>PL0ZpYcTg19EFn82569Lk5Sq0jhbmcczeC</string>
+	</dict>
 </dict>
 </plist>
