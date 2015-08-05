@@ -54,7 +54,7 @@
 		</array>
 	</dict>
 	<key>REVMOBTIMER</key>
-	<string>700.0</string>
+	<string>1800.0</string>
 	<key>tMainUrl</key>
 	<string>http://tamburafeed.appspot.com/gettamburamain</string>
 	<key>ADMOB</key>
