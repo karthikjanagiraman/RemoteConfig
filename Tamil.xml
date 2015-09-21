@@ -230,13 +230,6 @@
             <pubDate>Tue, 13 Jan 2015 09:03 -0800</pubDate>
         </item>
         <item>
-            <title>Radio Mirchi#3</title>
-            <description>http://192.99.46.219:8202/</description>
-            <link>http://192.99.46.219:8202/</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=6725152</guid>
-            <pubDate>Tue, 13 Jan 2015 09:04 -0800</pubDate>
-        </item>
-        <item>
             <title>RJBalaji CROSSTALK TakeItEasy#4</title>
             <description>http://streaming.radionomy.com/TamburaRJB</description>
             <link>http://streaming.radionomy.com/TamburaRJB</link>
@@ -259,8 +252,8 @@
         </item>
         <item>
             <title>Latest Puthu Padal FM#4</title>
-            <description>http://streaming.radionomy.com/PPR-radio</description>
-            <link>http://streaming.radionomy.com/PPR-radio</link>
+            <description>http://streaming.radionomy.com/ppr-radios</description>
+            <link>http://streaming.radionomy.com/ppr-radios</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=5908063</guid>
             <pubDate>Tue, 17 Feb 2015 19:50 -0800</pubDate>
         </item>
