@@ -91,5 +91,14 @@
 		<key>Telugu</key>
 		<string>PL0ZpYcTg19EFn82569Lk5Sq0jhbmcczeC</string>
 	</dict>
+	<key>UserPlaylist</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Sample - Add your own Playlist</string>
+			<key>plID</key>
+			<string>PLgspcG46J4mzcpwf8XZaR7EznarFjczPP</string>
+		</dict>
+	</array>
 </dict>
 </plist>
