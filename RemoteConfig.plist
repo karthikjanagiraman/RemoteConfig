@@ -60,7 +60,7 @@
 	<key>tMainUrl</key>
 	<string>http://tamburafeed.appspot.com/gettamburamain</string>
 	<key>ADMOB</key>
-	<false/>
+	<true/>
 	<key>DISABLESKIP</key>
 	<false/>
 	<key>tGenreUrl</key>
