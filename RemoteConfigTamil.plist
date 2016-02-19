@@ -62,7 +62,7 @@
 	<key>ADMOB</key>
 	<false/>
 	<key>DISABLESKIP</key>
-	<true/>
+	<false/>
 	<key>tGenreUrl</key>
 	<string>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Tamil</string>
 	<key>Language</key>
