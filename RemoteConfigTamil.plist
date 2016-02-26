@@ -64,7 +64,7 @@
 	<key>DISABLESKIP</key>
 	<false/>
 	<key>DISABLE_FB_LOGIN</key>
-	<false/>
+	<true/>
 	<key>tGenreUrl</key>
 	<string>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Tamil</string>
 	<key>Language</key>
