@@ -1,0 +1,30 @@
+{
+  "mainUrl":"http://tamburafeed.appspot.com/gettamburamain",
+  "selectedGenreUrl":"http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi",
+  "topSongs": [
+    {
+      "name" : "Punjabi",
+      "id" : "PLHuHXHyLu7BG4XrfduvRCdUTDsdr5y0Px"
+    },
+    {
+      "name" : "Hindi",
+      "id" : "PLgspcG46J4mx4t-tqjGp-O2AzzmEB2ZAs"
+    },
+    {
+      "name" : "Tamil",
+      "id" : "PLgxlkSiri4WfJqJfd4WiARdJ8Rjc6cELk"
+    },
+    {
+      "name" : "Telugu",
+      "id" : "PL0ZpYcTg19EFn82569Lk5Sq0jhbmcczeC"
+    }
+  ],
+
+  "defaultPlaylists" : [
+    {
+      "name":"Sample - Add your own Playlist",
+      "id" : "PLgspcG46J4mzcpwf8XZaR7EznarFjczPP"
+    }
+  ]
+
+}
