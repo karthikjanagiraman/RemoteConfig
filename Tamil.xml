@@ -28,8 +28,8 @@
         </item>
         <item>
             <title>Vanavilfm Radio#1</title>
-            <description>http://178.250.55.110:8000</description>
-            <link>http://178.250.55.110:8000</link>
+            <description>http://s2.vanavilfm.com:8560/</description>
+            <link>http://s2.vanavilfm.com:8560/</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=6038446</guid>
             <pubDate>Mon, 26 Mar 2012 22:28 -0700</pubDate>
         </item>
@@ -48,9 +48,16 @@
             <pubDate>Thu, 10 May 2012 19:07 -0700</pubDate>
         </item>
         <item>
+            <title>FM Rainbow#2</title>
+            <description>http://164.132.63.75:9998/</description>
+            <link>http://164.132.63.75:9998/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=6484733</guid>
+            <pubDate>Thu, 12 Jul 2012 09:34 -0700</pubDate>
+        </item>
+        <item>
             <title>DJSiran FM#2</title>
-            <description>http://streaming204.radionomy.com/DJSiran%2DTamil%2DFM?group=999</description>
-            <link>http://streaming204.radionomy.com/DJSiran%2DTamil%2DFM?group=999</link>
+            <description>http://streaming.radionomy.com/DJSiran-Tamil-FM</description>
+            <link>http://streaming.radionomy.com/DJSiran-Tamil-FM</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=6484733</guid>
             <pubDate>Thu, 12 Jul 2012 09:34 -0700</pubDate>
         </item>
@@ -105,8 +112,8 @@
         </item>
         <item>
             <title>ITR Tamil Paris#1</title>
-            <description>http://s8.pop-stream.de:8570</description>
-            <link>http://s8.pop-stream.de:8570</link>
+            <description>http://server.tamil.fm:8000/live01</description>
+            <link>http://server.tamil.fm:8000/live01</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=6484698</guid>
             <pubDate>Fri, 09 Aug 2013 17:29 -0700</pubDate>
         </item>
@@ -119,8 +126,8 @@
         </item>
         <item>
             <title>TRT TamilOli#1</title>
-            <description>http://trttamil.relay-network.com:8024</description>
-            <link>http://trttamil.relay-network.com:8024</link>
+            <description>http://94.23.36.180:5006/</description>
+            <link>http://94.23.36.180:5006/</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=6484675</guid>
             <pubDate>Fri, 09 Aug 2013 17:32 -0700</pubDate>
         </item>
