@@ -224,8 +224,15 @@
         </item>
         <item>
             <title>Radio Mirchi #3</title>
-            <description>http://192.99.46.219:8504/</description>
-            <link>http://192.99.46.219:8504/</link>
+            <description>http://164.132.63.75:9994/</description>
+            <link>http://164.132.63.75:9994/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=6725151</guid>
+            <pubDate>Tue, 13 Jan 2015 09:03 -0800</pubDate>
+        </item>
+        <item>
+            <title>SuriyamFM Ceylon #3</title>
+            <description>http://104.238.193.114:7077/</description>
+            <link>http://104.238.193.114:7077/</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=6725151</guid>
             <pubDate>Tue, 13 Jan 2015 09:03 -0800</pubDate>
         </item>
