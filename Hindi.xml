@@ -13,9 +13,9 @@
         <docs>http://backend.userland.com/rss</docs>
         <generator>RapidFeeds v0.1 -- http://www.rapidfeeds.com</generator>
         <item>
-            <title>Punjabi Desi Radio</title>
-            <description>http://radio.desiblastoff.com</description>
-            <link>http://radio.desiblastoff.com</link>
+            <title>AMZ FM</title>
+            <description>http://174.142.215.249:9466/</description>
+            <link>http://174.142.215.249:9466/</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=5547651</guid>
             <pubDate>Tue, 23 Nov 2010 19:23 -0800</pubDate>
         </item>
@@ -76,9 +76,9 @@
             <pubDate>Sun, 30 Sep 2012 13:14 -0700</pubDate>
         </item>
         <item>
-            <title>Revolution Plus FM#1</title>
-            <description>http://46.32.226.251:8006</description>
-            <link>http://46.32.226.251:8006</link>
+            <title>Spice FM UK#1</title>
+            <description>http://philae.shoutca.st:8212/stream</description>
+            <link>http://philae.shoutca.st:8212/stream</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=5480572</guid>
             <pubDate>Sun, 30 Sep 2012 13:38 -0700</pubDate>
         </item>
