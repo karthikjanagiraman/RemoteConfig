@@ -13,109 +13,74 @@
         <docs>http://backend.userland.com/rss</docs>
         <generator>RapidFeeds v0.1 -- http://www.rapidfeeds.com</generator>
         <item>
-            <title>24/7 hits FM</title>
-            <description>http://38.101.195.5:8896</description>
-            <link>http://38.101.195.5:8896</link>
+            <title>Manasutho 24/7#5</title>
+            <description>http://radio.manasutho.com:8020/</description>
+            <link>http://radio.manasutho.com:8020/</link>
             <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
             <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
         <item>
-            <title>Telugu Live Radio</title>
-            <description>http://38.101.195.5:9196</description>
-            <link>http://38.101.195.5:9196</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539688</guid>
-            <pubDate>Thu, 23 Sep 2010 16:28 -0700</pubDate>
+            <title>Manasutho Nava Tarangam#5</title>
+            <description>http://radio.manasutho.com:8040/</description>
+            <link>http://radio.manasutho.com:8040/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
         <item>
-            <title>Evergreen Radio</title>
-            <description>http://38.101.195.5:8996</description>
-            <link>http://38.101.195.5:8996</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539700</guid>
-            <pubDate>Thu, 23 Sep 2010 16:30 -0700</pubDate>
+            <title>Bhakti Tarangam#5</title>
+            <description>http://radio.manasutho.com:8012/stream</description>
+            <link>http://radio.manasutho.com:8012/stream</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
         <item>
-            <title>Mid 80/90 Music Radio</title>
-            <description>http://38.101.195.5:8696</description>
-            <link>http://38.101.195.5:8696</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539699</guid>
-            <pubDate>Thu, 23 Sep 2010 16:30 -0700</pubDate>
+            <title>Radio Mirchi Hydrabad#6</title>
+            <description>http://123.176.41.8:8356/</description>
+            <link>http://123.176.41.8:8356/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
+        </item>
+         <item>
+            <title>Radio Vizag Telugu FM#6</title>
+            <description>http://123.176.41.8:8356/</description>
+            <link>http://123.176.41.8:8356/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
         <item>
-            <title>PolskaStacja Desi FM</title>
-            <description>http://91.121.92.167:4600</description>
-            <link>http://91.121.92.167:4600</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539704</guid>
-            <pubDate>Thu, 23 Sep 2010 16:31 -0700</pubDate>
+            <title>TORI Telugu FM#6</title>
+            <description>http://173.203.133.187:9700/</description>
+            <link>http://173.203.133.187:9700/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
         <item>
-            <title>Classic Radio</title>
-            <description>http://38.101.195.5:8596</description>
-            <link>http://38.101.195.5:8596</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539701</guid>
-            <pubDate>Sat, 02 Oct 2010 21:35 -0700</pubDate>
+            <title>Radio9 Telugu FM#6</title>
+            <description>http://174.37.252.208:8530/</description>
+            <link>http://174.37.252.208:8530/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
         <item>
-            <title>Latest Hits FM</title>
-            <description>http://38.101.195.5:8796</description>
-            <link>http://38.101.195.5:8796</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539698</guid>
-            <pubDate>Sat, 02 Oct 2010 21:36 -0700</pubDate>
+            <title>Kokila Radio #5</title>
+            <description>http://52.3.202.102:8000/</description>
+            <link>http://52.3.202.102:8000/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
         <item>
-            <title>Manasu Tho</title>
-            <description>http://manasutho.com/mymusic/getRadio.php</description>
-            <link>http://manasutho.com/mymusic/getRadio.php</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=5567332</guid>
-            <pubDate>Sat, 21 Jan 2012 13:30 -0800</pubDate>
+            <title>Virijallu Radio #5</title>
+            <description>http://7319.live.streamtheworld.com/KLOKAM_SC</description>
+            <link>http://7319.live.streamtheworld.com/KLOKAM_SC</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
         <item>
-            <title>Kushi India #4</title>
-            <description>http://fire.wavestreamer.com:5206/</description>
-            <link>http://fire.wavestreamer.com:5206/</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=6316815</guid>
-            <pubDate>Mon, 22 Sep 2014 08:12 -0700</pubDate>
-        </item>
-        <item>
-            <title>RadioKushi EST#3</title>
-            <description>http://majestic.wavestreamer.com:9321/</description>
-            <link>http://majestic.wavestreamer.com:9321/</link>
-            <guid>http://feeds.rapidfeeds.com/?iid4ct=7408371</guid>
-            <pubDate>Mon, 22 Sep 2014 08:15 -0700</pubDate>
-        </item>
-        <item>
-            <title>Tori Radio</title>
-            <author>karthikjanagiraman@gmail.com ( Karthik Janagiraman)</author>
-            <pubDate>Tue, 07 Jul 2015 21:59 -0700</pubDate>
-            <link>http://38.101.195.5:9156/</link>
-            <description>http://38.101.195.5:9156/</description>
-        </item>
-        <item>
-            <title>Hungama Telugu Hits</title>
-            <pubDate>Tue, 07 Jul 2015 22:00 -0700</pubDate>
-            <description>http://123.176.41.8:8356</description>
-            <link>http://123.176.41.8:8356</link>
-            <author>karthikjanagiraman@gmail.com ( Karthik Janagiraman)</author>
-        </item>
-        <item>
-            <title>Telugu Radio</title>
-            <pubDate>Tue, 07 Jul 2015 22:01 -0700</pubDate>
-            <description>http://103.49.121.11:8000</description>
-            <link>http://103.49.121.11:8000</link>
-            <author>karthikjanagiraman@gmail.com ( Karthik Janagiraman)</author>
-        </item>
-        <item>
-            <title>SwastikTeluguBhajans</title>
-            <pubDate>Tue, 07 Jul 2015 22:02 -0700</pubDate>
-            <description>http://listen.radionomy.com:80/SwastikTeluguBhajans</description>
-            <link>http://listen.radionomy.com:80/SwastikTeluguBhajans</link>
-            <author>karthikjanagiraman@gmail.com ( Karthik Janagiraman)</author>
-        </item>
-        <item>
-            <title>Kushi India</title>
-            <pubDate>Tue, 07 Jul 2015 22:02 -0700</pubDate>
-            <description>http://fire.wavestreamer.com:5206/</description>
-            <link>http://fire.wavestreamer.com:5206/</link>
-            <author>karthikjanagiraman@gmail.com ( Karthik Janagiraman)</author>
+            <title>TG9 Telangana #5</title>
+            <description>http://s6.voscast.com:10596/</description>
+            <link>http://s6.voscast.com:10596/</link>
+            <guid>http://feeds.rapidfeeds.com/?iid4ct=5539687</guid>
+            <pubDate>Thu, 23 Sep 2010 16:27 -0700</pubDate>
         </item>
     </channel>
 </rss>
