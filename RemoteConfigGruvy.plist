@@ -1,1 +1,104 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Artists</key>
+	<dict>
+		<key>Hindi</key>
+		<array>
+			<string>Kishore Kumar</string>
+			<string>The coke studio</string>
+			<string>The shruti box shankar tucker</string>
+			<string>Asha Bhonsle</string>
+			<string>Lata Mangeshkar</string>
+			<string>Mohit Chauhan</string>
+			<string>Sonu Nigam</string>
+			<string>Sukhwinder Singh</string>
+			<string>Sunidhi Chauhan</string>
+			<string>Atif Aslam</string>
+			<string>Ayushman Khurana</string>
+			<string>Shreya Ghoshal</string>
+			<string>Rahat Ali Fateh Khan</string>
+			<string>Mika Singh</string>
+			<string>Arijit Singh</string>
+		</array>
+		<key>Tamil</key>
+		<array>
+			<string>Ilaiyaraja</string>
+			<string>A R Rahman Tamil Songs</string>
+			<string>santosh narayan songs</string>
+			<string>Hariharan tamil songs</string>
+			<string>SPB hits in tamil</string>
+			<string>Yuvan Shankar Raja</string>
+			<string>GV Prakash songs</string>
+			<string>Vadivelu comedy</string>
+			<string>Santhanam Comedy</string>
+			<string>Neeya Naana</string>
+			<string>kuthu songs tamil</string>
+			<string>gaana song tamil</string>
+			<string>Chitra hits</string>
+			<string>Tamil pattimandram 2015</string>
+			<string>Suki sivam speech</string>
+			<string>RJ chennai</string>
+			<string>Tamil movies scenes</string>
+		</array>
+		<key>Telugu</key>
+		<array>
+			<string>Old Telugu Songs</string>
+			<string>A R Rahman Telugu songs</string>
+			<string>ilayaraja telugu hits</string>
+			<string>DSP telugu hit songs</string>
+			<string>S. Thaman songs</string>
+			<string>anup rubens hit songs</string>
+			<string>Brahmanandam comedy scenes</string>
+			<string>pravachanam in telugu</string>
+			<string>telugu devotional songs</string>
+		</array>
+	</dict>
+	<key>REVMOBTIMER</key>
+	<string>1000.0</string>
+	<key>tMainUrl</key>
+	<string>http://museboxradio.appspot.com/getmuseboxmain</string>
+	<key>ADMOB</key>
+	<true/>
+	<key>DISABLESKIP</key>
+	<false/>
+	<key>tGenreUrl</key>
+	<string>http://museboxradio.appspot.com/getlatest4mmuse?genre=Top%2040</string>
+	<key>Language</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Tamil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Telugu</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hindi</string>
+		</dict>
+	</array>
+	<key>Playlist</key>
+	<dict>
+		<key>Punjabi</key>
+		<string>PLHuHXHyLu7BG4XrfduvRCdUTDsdr5y0Px</string>
+		<key>Hindi</key>
+		<string>PLgspcG46J4mx4t-tqjGp-O2AzzmEB2ZAs</string>
+		<key>Tamil</key>
+		<string>PLgxlkSiri4WfJqJfd4WiARdJ8Rjc6cELk</string>
+		<key>Telugu</key>
+		<string>PL0ZpYcTg19EFn82569Lk5Sq0jhbmcczeC</string>
+	</dict>
+	<key>UserPlaylist</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Sample - Add your own Playlist</string>
+			<key>plID</key>
+			<string>PLgspcG46J4mzcpwf8XZaR7EznarFjczPP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
