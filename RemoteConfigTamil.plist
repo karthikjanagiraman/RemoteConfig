@@ -100,6 +100,10 @@
 			<string>Sample - Add your own Playlist</string>
 			<key>plID</key>
 			<string>PLgspcG46J4mzcpwf8XZaR7EznarFjczPP</string>
+			<key>name</key>
+			<string>Kodi Songs</string>
+			<key>plID</key>
+			<string>PLjity7Lwv-zo7y88dUo80aAbC95_PXHMm</string>
 		</dict>
 	</array>
 </dict>
