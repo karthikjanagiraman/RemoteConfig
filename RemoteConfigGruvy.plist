@@ -6,21 +6,12 @@
 	<dict>
 		<key>Hindi</key>
 		<array>
-			<string>Kishore Kumar</string>
-			<string>The coke studio</string>
-			<string>The shruti box shankar tucker</string>
-			<string>Asha Bhonsle</string>
-			<string>Lata Mangeshkar</string>
-			<string>Mohit Chauhan</string>
-			<string>Sonu Nigam</string>
-			<string>Sukhwinder Singh</string>
-			<string>Sunidhi Chauhan</string>
-			<string>Atif Aslam</string>
-			<string>Ayushman Khurana</string>
-			<string>Shreya Ghoshal</string>
-			<string>Rahat Ali Fateh Khan</string>
-			<string>Mika Singh</string>
-			<string>Arijit Singh</string>
+			<string>Ed Sheeran</string>
+			<string>George Michael</string>
+			<string>Sting</string>
+			<string>Katy Perry</string>
+			<string>Bruno Mars</string>
+			<string>Kendrik Lamar</string>
 		</array>
 		<key>Tamil</key>
 		<array>
@@ -97,7 +88,7 @@
 			<key>name</key>
 			<string>Sample - Add your own Playlist</string>
 			<key>plID</key>
-			<string>PLgspcG46J4mzcpwf8XZaR7EznarFjczPP</string>
+			<string>PLI_7Mg2Z_-4I-W_lI55D9lBUkC66ftHMg</string>
 		</dict>
 	</array>
 </dict>
