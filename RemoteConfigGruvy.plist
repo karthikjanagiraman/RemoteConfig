@@ -47,7 +47,7 @@
 		</array>
 	</dict>
 	<key>REVMOBTIMER</key>
-	<string>1000.0</string>
+	<string>100000.0</string>
 	<key>tMainUrl</key>
 	<string>http://museboxradio.appspot.com/getmuseboxmain</string>
 	<key>ADMOB</key>
